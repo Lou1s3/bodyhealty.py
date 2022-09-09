@@ -3,6 +3,11 @@
 #Emmanuelle Louise Corrá
 #1TDCA
 #RM: 93392 
+#Professor Fábio Pires
+#O programa pode ser usado para medir sua saúde daqui alguns anos, principalmente focado em 30 anos.
+#Atividade fisica, tempo dormido, alimentação saudável com frutas, vegetais e vitamina natural d.
+#O programa solicita cada informação para o usuário preencher conforme a preferencia.
+#Saudavel - Estável - Sem saúde (estragado) 
 
 from sklearn import tree
 
