@@ -28,7 +28,7 @@ semsaude = '3'
 saude=[["10","30", cotidiano, cotidiano, cotidiano], ['15', '5', raramente, raramente, raramente], ['4','7', nunca, nunca, nunca]]
 
 resultado=[saudável, estável, semsaude] #variaveis
-
+                              #estragado
 #tree sklearn
 classificador=tree.DecisionTreeClassifier()
 classificador=classificador.fit(saude,resultado)
