@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
-#Emmanuelle Louise Corrá
-#1TDCA
+#Coding For Security:
+#Versão: 1.0.0.
+#Autora: Emmanuelle Louise Corrá
+#Turma: 1TDCA
 #RM: 93392 
 #Professor Fábio Pires
 #O programa pode ser usado para medir sua saúde daqui alguns anos, principalmente focado em 30 anos.
